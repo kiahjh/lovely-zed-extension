@@ -26,3 +26,5 @@
 "!" @operator
 
 "fun" @keyword
+; "use" @keyword
+; "self" @keyword
