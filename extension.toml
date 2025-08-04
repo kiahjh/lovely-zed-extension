@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["Miciah Henderson <miciahjohnhenderson@gmail.com>"]
 description = "Support for the Lovely programming language"
 repository = "https://github.com/kiahjh/lovely-zed-extension"
+
+[grammars.lovely]
+repository = "https://github.com/kiahjh/tree-sitter-lovely"
+rev = "b0ec56d95937dad88ca09ae7c00212949812cf0d"

@@ -1,0 +1,5 @@
+name = "Lovely"
+grammar = "lovely"
+path_suffixes = ["lv"]
+line_comments = ["# "]
+tab_size = 3
